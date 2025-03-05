@@ -66,8 +66,8 @@ Different machine learning models were tested using a **Pipeline** with cross-va
 ## Validation Approach:
 - Used **Train-Test Split**(80-20)
 
-### 8.0 Conclusion and recommendations
-### 8.1 Conclusion
+### Conclusion and recommendations
+### Conclusion
 ### 1. key Factors Influencing churn:
 - **Total Day minutes**(Higher Usage linked to churn)
 - **Customer service Calls** (Frequent calls indicate dissatisfaction)
@@ -80,7 +80,7 @@ Different machine learning models were tested using a **Pipeline** with cross-va
 -Frequent calls to customer service indicate dissatisfaction and potential churn
 - The international Plan segment is at higher risk, requiring retention strategies
 
-### 8.2 Recommendations
+###  Recommendations
 ### 1. Improve Customer Retention Strategies
 - Offer **loyalty incentives** (discounts,special plans) for high-usage customers
 - **Improve customer service** response time to reduce frustration
