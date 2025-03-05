@@ -16,7 +16,7 @@ For Syrialtel, a telcom provider, high churn rates lead to significant revenue l
 ## Objective
 The goal is to build a predictive model that identifies customers who are likely to churn in the near future. By analyzing patterns in customer behavior, the company can implement targeted retention strategies, such as personalized offers, improved customer support, or proactive engagement, to reduced churn and enhance customer loyalty
 
-# Summary
+## Summary
 
 ## Dataset Overview
 - **3333 rows and 21 columns** with features relating to customer behavior, call usage, subscription plans and churn status
@@ -66,7 +66,7 @@ Different machine learning models were tested using a **Pipeline** with cross-va
 ## Validation Approach:
 - Used **Train-Test Split**(80-20)
 
-### Conclusion and recommendations
+## Conclusion and recommendations
 ### Conclusion
 ### 1. key Factors Influencing churn:
 - **Total Day minutes**(Higher Usage linked to churn)
